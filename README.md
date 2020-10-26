@@ -5,8 +5,6 @@ Me chamo **Wesley Bueno** 🙋‍♂️
 
 Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolvimento pela imensidão de coisas que ela é capaz de fazer e um dia farei parte disso.😁
 
-Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolvimento pela imensidão de coisas que ela é capaz de fazer e um dia farei parti disso.😁
-
 ### **Tenho como objetivos** 😊
 - Terminar meu bootcamp na generation 💙
 - Me aprimorar na área 👨‍💻
