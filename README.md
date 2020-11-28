@@ -25,6 +25,9 @@ Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolv
 <code><img src="https://angular.io/assets/images/logos/angular/angular.png" weight="40" height="40">
 <code> <img src ="https://img.techentice.com/media/2020/06/docker.png" weight="40" height="40">
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WesleyBueno)](https:https://github.com/WesleyBueno)
+
+
 ### **Minhas redes**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Bueno-2931cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-bueno/)](https://www.linkedin.com/in/wesley-bueno/) 
