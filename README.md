@@ -24,8 +24,10 @@ Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolv
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-#
-**GitHub Status**
+
+## **GitHub Status**
+
+**
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=WesleyBueno&show_icons=true&theme=vue)
@@ -37,12 +39,5 @@ Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolv
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Bueno-2931cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-bueno/)](https://www.linkedin.com/in/wesley-bueno/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-2931cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesleeyy.bueno/?hl=pt-br)](https://www.instagram.com/wesleeyy.bueno/?hl=pt-br)
-
-
-
-
-
-
-
 
 
