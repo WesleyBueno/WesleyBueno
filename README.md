@@ -26,6 +26,8 @@ Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolv
 
 #
 **GitHub Status**
+
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=WesleyBueno&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBueno&show_icons=true&theme=vue)
 
