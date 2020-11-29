@@ -1,20 +1,14 @@
-
-#
 Olá galera 👋
 
 Me chamo **Wesley Bueno**, bem vindes ao meu GitHub! 🙋‍♂️
 
 Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolvimento pela imensidão de coisas que ela é capaz de fazer e um dia farei parte disso.😁
 
-#
-
 ### **Tenho como objetivos** 😊
 - Terminar meu bootcamp na generation 💙
 - Me aprimorar na área 👨‍💻
 - Cursar engenharia biomédica e um dia unir meus conhecimentos de desenvolvimento na área ✍
  - Contribuir positivamente com as pessoas 🤩
-
-#
 
 ### **Conteúdos que venho estudando estudando:** 
 <p align="left">
@@ -32,20 +26,18 @@ Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolv
 
 #
 **GitHub Status**
-
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=WesleyBueno&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBueno&show_icons=true&theme=vue)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=WesleyBueno&show_icons=true&theme=vue)
 
 
-#
 ### **Minhas redes**
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-bueno/" />
+[![Linkedin Badge](https://img.shields.io/badge/-Wesley%20Bueno-2931cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-bueno/)](https://www.linkedin.com/in/wesley-bueno/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-2931cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesleeyy.bueno/?hl=pt-br)](https://www.instagram.com/wesleeyy.bueno/?hl=pt-br)
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleeyy.bueno/" />
 
-#
+
 
 
 
