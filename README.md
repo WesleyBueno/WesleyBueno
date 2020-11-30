@@ -10,7 +10,7 @@ Sou estudante de Desenvolvimento java Full Stack, amo muito a área do desenvolv
 - Cursar engenharia biomédica e um dia unir meus conhecimentos de desenvolvimento na área ✍
  - Contribuir positivamente com as pessoas 🤩
 
-### **Conteúdos que venho estudando estudando:** 
+### **Conteúdos que venho estudando:** 
 <p align="left">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
