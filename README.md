@@ -6,7 +6,7 @@
    />
 </banner>
 
-## **Olá! Eu sou o Wesley Bueno, Desenvolvedor Full-Stack!** <img src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif" height=40px/>
+## **Olá! Eu sou o Wesley Bueno, Desenvolvedor Full-Stack!** <img src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif" height=50em/>
 
 Entusiasta do mundo tech pela imensidão de coisas que ele é capaz de criar. <img src="https://c.tenor.com/VT_MhlfBJuYAAAAj/michoko-heart.gif" height= 20px />
 
