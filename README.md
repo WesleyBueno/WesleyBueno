@@ -6,11 +6,11 @@
    />
 </banner>
 
-## **Olá! Eu sou o Wesley Bueno, Desenvolvedor Full-Stack!** <img src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif" height=50em/>
+## **Olá! Eu sou o Wesley Bueno, Desenvolvedor Full-Stack!** <img src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif" height=50px width =50px/>
 
-Entusiasta do mundo tech pela imensidão de coisas que ele é capaz de criar. <img src="https://c.tenor.com/VT_MhlfBJuYAAAAj/michoko-heart.gif" height= 20px />
+Entusiasta do mundo tech pela imensidão de coisas que ele é capaz de criar. <img src="https://c.tenor.com/VT_MhlfBJuYAAAAj/michoko-heart.gif" height= 20px  width =20px />
 
-Aqui você vai encontrar diversos projetos usando linguagens variadas, como: Java, HTML, CSS, Nodejs entre outras. Gosto de integrar várias delas em diferentes projetos. <img src="https://media.tenor.com/images/572cf15a51209709f35e1b41ad1067c4/tenor.gif" height="30px">
+Aqui você vai encontrar diversos projetos usando linguagens variadas, como: Java, HTML, CSS, Nodejs entre outras. Gosto de integrar várias delas em diferentes projetos. <img src="https://media.tenor.com/images/572cf15a51209709f35e1b41ad1067c4/tenor.gif" height="30px width =30px">
 
 ## Contato
 <a href="https://www.linkedin.com/in/wesley-bueno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
