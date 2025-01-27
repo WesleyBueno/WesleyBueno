@@ -12,10 +12,10 @@ Entusiasta do mundo tech pela imensidão de coisas que ele é capaz de criar. <i
 
 Aqui você vai encontrar diversos projetos usando tecnologias variadas, como: Java, HTML, CSS, Nodejs entre outras. Gosto de integrar várias delas em diferentes projetos. <img src="https://media.tenor.com/images/572cf15a51209709f35e1b41ad1067c4/tenor.gif" height="30px width =30px">
 
-## Contato
-<a href="https://www.linkedin.com/in/wesley-bueno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
+ ## ✉️Contato
+<a href="https://www.linkedin.com/in/wesley-bueno/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" /></a>
 
-## Principais Skills:
+## 🏆Principais Skills:
 <table>
   <tbody>
     <tr>
@@ -124,7 +124,7 @@ Aqui você vai encontrar diversos projetos usando tecnologias variadas, como: Ja
 </table>
 <hr/>
 
-## Todas as minhas Skills:
+## 💻Todas as minhas Skills:
 <table>
   <tbody>
     <tr>
@@ -324,12 +324,12 @@ Aqui você vai encontrar diversos projetos usando tecnologias variadas, como: Ja
 
 
 
-## **GitHub Status**
+## ⭐**GitHub Status**
 
 <div align="center">
   <a href="https://github.com/WesleyBueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyBueno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBueno&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyBueno&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBueno&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 
