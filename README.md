@@ -10,12 +10,12 @@
 
 Entusiasta do mundo tech pela imensidão de coisas que ele é capaz de criar. <img src="https://c.tenor.com/VT_MhlfBJuYAAAAj/michoko-heart.gif" height= 20px  width =20px />
 
-Aqui você vai encontrar diversos projetos usando linguagens variadas, como: Java, HTML, CSS, Nodejs entre outras. Gosto de integrar várias delas em diferentes projetos. <img src="https://media.tenor.com/images/572cf15a51209709f35e1b41ad1067c4/tenor.gif" height="30px width =30px">
+Aqui você vai encontrar diversos projetos usando tecnologias variadas, como: Java, HTML, CSS, Nodejs entre outras. Gosto de integrar várias delas em diferentes projetos. <img src="https://media.tenor.com/images/572cf15a51209709f35e1b41ad1067c4/tenor.gif" height="30px width =30px">
 
 ## Contato
 <a href="https://www.linkedin.com/in/wesley-bueno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thicode" height="30" width="40" /></a>
 
-## Skills Atuais:
+## Principais Skills:
 <table>
   <tbody>
     <tr>
@@ -71,7 +71,7 @@ Aqui você vai encontrar diversos projetos usando linguagens variadas, como: Jav
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
           height="40"
           alt="vscode logo"
         />
@@ -260,7 +260,7 @@ Aqui você vai encontrar diversos projetos usando linguagens variadas, como: Jav
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/awsfargate/FF9900"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
           height="40"
           alt="amazonwebservices logo"
         />
@@ -286,16 +286,15 @@ Aqui você vai encontrar diversos projetos usando linguagens variadas, como: Jav
     <tr>
       <td>
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"
+          alt="sql logo"
           width="40"
-          height="40"
         />
-        <img width="12" /> MySQL
+        <img width="12" /> SQL
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
           height="40"
           alt="vscode logo"
         />
@@ -305,9 +304,17 @@ Aqui você vai encontrar diversos projetos usando linguagens variadas, como: Jav
         <img
           src="https://cdn.simpleicons.org/postman/FF6C37"
           height="40"
-          alt="vscode logo"
+          alt="Postman logo"
         />
         <img width="12" /> Postman
+      </td>
+       <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
+          height="40"
+          alt="Gitlab logo"
+        />
+        <img width="12" /> Gitlab
       </td>
     </tr>
   </tbody>
