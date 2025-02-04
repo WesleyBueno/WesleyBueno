@@ -321,8 +321,10 @@ Aqui você vai encontrar diversos projetos usando tecnologias variadas, como: Ja
 </table>
 <hr/>
 
+## 🧑‍🎓Certificações:
 
-
+<a href="https://www.credly.com/earner/earned/badge/2921b5af-f9e1-4940-a9ea-f38e246cef1c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="badge-re/start" width="110" /></a>
+<a href="https://www.credly.com/badges/ac1ea9cf-7712-4518-b241-de054d496a7b" target="blank"><img align="center" src="https://imgs.search.brave.com/EUEJjJHjCoID5Dy63_styci2AhgFP99QbahxK4FMUjs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMDA2/MzRmODItYjA3Zi00/YmJkLWE2YmItNTNk/ZTM5N2ZjM2E2L2lt/YWdlLnBuZw" alt="badge-aws" width="110" /></a>
 
 ## ⭐**GitHub Status**
 
