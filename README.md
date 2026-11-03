@@ -1,338 +1,121 @@
-<banner>
-  <img 
-   src="https://media1.tenor.com/m/_EYOsX_1CUkAAAAd/pixel-night.gif" 
-   width="100%"
-   alt="banner"
-   />
-</banner>
-
-## **Olá! Eu sou o Wesley Bueno, Desenvolvedor Full-Stack!** <img src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif" height=50px width =50px/>
-
-Entusiasta do mundo tech pela imensidão de coisas que ele é capaz de criar. <img src="https://c.tenor.com/VT_MhlfBJuYAAAAj/michoko-heart.gif" height= 20px  width =20px />
-
-Aqui você vai encontrar diversos projetos usando tecnologias variadas, como: Java, HTML, CSS, Nodejs entre outras. Gosto de integrar várias delas em diferentes projetos. <img src="https://media.tenor.com/images/572cf15a51209709f35e1b41ad1067c4/tenor.gif" height="30px width =30px">
-
- ## ✉️Contato
-<a href="https://www.linkedin.com/in/wesley-bueno/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" /></a>
-
-## 🏆Principais Skills:
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          height="40"
-          alt="java logo"
-        />
-        <img width="12" /> Java
-      </td>
-       <td>
-        <img
-          src="https://cdn.simpleicons.org/spring/6DB33F"
-          height="40"
-          alt="java logo"
-        />
-        <img width="12" /> Spring
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          height="40"
-          alt="nodejs logo"
-        />
-        <img width="12" /> Node.js
-      </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          height="40"
-          alt="git logo"
-        />
-        <img width="12" /> Git
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
-        />
-        <img width="12" /> Docker
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-          height="40"
-          alt="vscode logo"
-        />
-        <img width="12" /> Visual Studio Code
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/postman/FF6C37"
-          height="40"
-          alt="vscode logo"
-        />
-        <img width="12" /> Postman
-      </td>
-    </tr>
-    <tr>
-     <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-          height="40"
-          alt="css logo"
-        />
-        <img width="12" /> CSS
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-          height="40"
-          alt="HTML logo"
-        />
-        <img width="12" /> HTML
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/googlecloud/4285F4"
-          height="40"
-          alt="google cloud logo"
-        />
-        <img width="12" /> Google Cloud
-      </td>
-     <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="google cloud logo"
-        />
-        <img width="12" /> PostgreSQL
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr/>
-
-## 💻Todas as minhas Skills:
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-          height="40"
-          alt="javascript logo"
-        />
-        <img width="12" /> Javascript
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-          height="40"
-          alt="typescript logo"
-        />
-        <img width="12" /> Typescript
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          height="40"
-          alt="nodejs logo"
-        />
-        <img width="12" /> Node.js
-      </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/googlecloud/4285F4"
-          height="40"
-          alt="google cloud logo"
-        />
-        <img width="12" /> Google Cloud
-      </td>
-     <td>
-        <img
-          src="https://angular.io/assets/images/logos/angular/angular.svg"
-          alt="angular"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Angular
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-          height="40"
-          alt="html5 logo"
-        />
-        <img width="12" /> HTML
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-          height="40"
-          alt="css3 logo"
-        />
-        <img width="12" /> CSS
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/bootstrap/7952B3"
-          alt="bootstrap"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Bootstrap
-      </td>
-      <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Figma
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Python
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Java
-      </td>
-    </tr>
-    <tr>
-       <td>
-        <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-          alt="spring"
-          width="40"
-          height="40"
-        />
-        <img width="12" />Spring
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-          height="40"
-          alt="git logo"
-        />
-        <img width="12" /> Git
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
-        />
-        <img width="12" /> Docker
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-          height="40"
-          alt="amazonwebservices logo"
-        />
-        <img width="12" /> AWS
-      </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=github"
-          height="40"
-          alt="github logo"
-        />
-        <img width="12" /> GitHub
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-          height="40"
-          alt="postgresql logo"
-        />
-        <img width="12" /> PostgreSQL
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"
-          alt="sql logo"
-          width="40"
-        />
-        <img width="12" /> SQL
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-          height="40"
-          alt="vscode logo"
-        />
-        <img width="12" /> Visual Studio Code
-      </td>
-      <td>
-        <img
-          src="https://cdn.simpleicons.org/postman/FF6C37"
-          height="40"
-          alt="Postman logo"
-        />
-        <img width="12" /> Postman
-      </td>
-       <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg"
-          height="40"
-          alt="Gitlab logo"
-        />
-        <img width="12" /> Gitlab
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr/>
-
-## 🧑‍🎓Certificações:
-
-<a href="https://www.credly.com/earner/earned/badge/2921b5af-f9e1-4940-a9ea-f38e246cef1c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="badge-re/start" width="110" /></a>
-<a href="https://www.credly.com/badges/ac1ea9cf-7712-4518-b241-de054d496a7b" target="blank"><img align="center" src="https://imgs.search.brave.com/EUEJjJHjCoID5Dy63_styci2AhgFP99QbahxK4FMUjs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3JlZGx5LmNv/bS9pbWFnZXMvMDA2/MzRmODItYjA3Zi00/YmJkLWE2YmItNTNk/ZTM5N2ZjM2E2L2lt/YWdlLnBuZw" alt="badge-aws" width="110" /></a>
-
-## ⭐**GitHub Status**
-
 <div align="center">
-  <a href="https://github.com/WesleyBueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyBueno&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBueno&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+
+<img src="./assets/banner.svg" alt="Banner Cyberpunk Wesley Bueno" width="100%" />
+
+![status](https://img.shields.io/badge/SYSTEM-ONLINE-00e5ff?style=for-the-badge&labelColor=080d17) ![role](https://img.shields.io/badge/CLASS-BACK--END_DEV-fcee0a?style=for-the-badge&labelColor=080d17) ![focus](https://img.shields.io/badge/FOCUS-GEN_AI-ff006e?style=for-the-badge&labelColor=080d17)
+
+`[ NIGHT CITY NETWORK ]` · `SÃO PAULO / BR` · `BUILD 2.077`
+
 </div>
 
+<img src="./assets/sobre.svg" alt="01 Identidade" width="100%" />
 
+```text
+> carregando_perfil.exe
+> identificação: Wesley Bueno
+> ocupação: Desenvolvedor Back-end | Estudante de Engenharia de Software
+> especialidade: APIs • Integrações • Agentes de IA • Automação
+> status: aprendendo, construindo, evoluindo...
+> processo finalizado: OK
+```
 
+Desenvolvedor com experiência em **Java, APIs REST, microsserviços e integrações**, atualmente atuando como **estagiário de Back-end na GFT Brasil**. Também exploro **agentes de IA**, **n8n**, **automações de processos** e maneiras de transformar problemas reais em soluções úteis.
+
+<div align="center">
+<img src="./assets/atributos.svg" alt="Atributos temáticos: Back-end, agentes de IA, automação e Cloud DevOps" width="100%" />
+<sub>Os níveis acima são ilustrativos, inspirados em sistemas de progressão de RPG.</sub>
+</div>
+
+<img src="./assets/stack.svg" alt="02 Cyberware" width="100%" />
+
+<div align="center">
+
+**CORE // BACK-END & INTEGRAÇÕES**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-353535?style=for-the-badge&logo=express&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**TOOLS // OBSERVABILIDADE & INFRA**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI // AUTOMAÇÃO & EXPERIMENTAÇÃO**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-6C4AFF?style=for-the-badge&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<img src="./assets/projetos.svg" alt="03 Missões ativas" width="100%" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 // FINANCE BOT`
+**Agente financeiro no Telegram**
+
+Classifica mensagens, identifica despesas e consultas e organiza registros financeiros em planilhas.
+
+`n8n` `Telegram Bot API` `LLMs` `Google Sheets`
+
+</td>
+<td width="50%" valign="top">
+
+### `02 // TRAVEL AGENT`
+**Agente de viagens inteligente**
+
+Sugere roteiros, locais de interesse e restaurantes utilizando APIs de localização.
+
+`n8n` `LLMs` `Location APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03 // CONTENT DELIVERY`
+**Entrega automatizada de conteúdo**
+
+Recebe interesses de um formulário e automatiza o envio de materiais por e-mail.
+
+`n8n` `Gmail` `Forms`
+
+</td>
+<td width="50%" valign="top">
+
+### `04 // AGENT ARCHITECTURE`
+**Agentes de IA aplicados a processos**
+
+Exploração de fluxos condicionais, regras de negócio e integração com sistemas de atendimento.
+
+`Agent Builder` `Salesforce` `AI Agents`
+
+</td>
+</tr>
+</table>
+
+> [!NOTE]
+> Os cards descrevem projetos e experiências. Adicione links apenas para repositórios que você realmente publicou; projetos internos podem permanecer sem links.
+
+<img src="./assets/exploracao.svg" alt="04 Skill tree" width="100%" />
+
+```text
+  [x] APIs REST e microsserviços       [x] Java / Spring
+  [x] Mensageria com RabbitMQ          [x] Docker e Redis
+  [x] Observabilidade                  [x] Workflows com n8n
+  [>] Arquitetura de agentes de IA     [>] Salesforce Agentforce
+  [>] RPA e automação de triagem       [>] Cloud e .NET
+```
+
+<img src="./assets/contato.svg" alt="05 Comms link" width="100%" />
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080d17)](https://www.linkedin.com/in/wesley-bueno/)
+[![GitHub](https://img.shields.io/badge/GITHUB-REPOSITORIES-ff006e?style=for-the-badge&logo=github&logoColor=white&labelColor=080d17)](https://github.com/WesleyBueno?tab=repositories)
+
+```text
+> TRANSMISSION COMPLETE
+> NEVER STOP LEVELING UP_
+```
+
+</div>
