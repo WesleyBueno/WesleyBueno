@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D8F5?style=for-the-badge&labelColor=111827" alt="SYSTEM-ONLINE" height="25" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-4cfb2b?style=for-the-badge&labelColor=111827" alt="SYSTEM-ONLINE" height="25" />
 <img src="https://img.shields.io/badge/CLASS-BACK--END_DEV-FFE600?style=for-the-badge&labelColor=111827" alt="CLASS-BACK--END DEV" height="25" />
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE ARCHITECTURE_%2B_AI_%2B_AUTOMATION-FF008C?style=for-the-badge&labelColor=111827" alt="FOCUS-AI %2B AUTOMATION" height="25" />
 </p>
 
-<p><img src="./assets/titulos/01-sobre-mim.gif" alt="01 — Sobre Mim" width="100%" /></p>
+<p><img src="./assets/titulos/01-sobre-mim.gif" alt="01 — Sobre Mim" width="80%" /></p>
 
 
 > **❯** Olá! Eu sou o **Wesley Bueno**. <img src="https://media.tenor.com/m7ZcyCQoZBsAAAAj/hey-choomba-jackie-welles.gif](https://media.tenor.com/m7ZcyCQoZBsAAAAi/hey-choomba-jackie-welles.gif)" alt="01 — Sobre Mim" width="10%" />
@@ -19,7 +19,7 @@
 >
 > **❯** Aqui você encontra projetos que exploram essa combinação: **engenharia e arquitetura de software, agentes inteligentes e automação aplicada.**
 
-<p><img src="./assets/titulos/02-especialidades.gif" alt="02 — Especialidades" width="100%" /></p>
+<p><img src="./assets/titulos/02-atributos.gif" alt="02 — Atributos" width="80%" /></p>
 
 
 
@@ -93,7 +93,7 @@
 </table>
 
 
-<p><img src="./assets/titulos/03-projetos.gif" alt="03 — Projetos em Destaque" width="100%" /></p>
+<p><img src="./assets/titulos/03-projetos.gif" alt="03 — Projetos em Destaque" width="80%" /></p>
 
 <table width="100%">
 <tr>
@@ -130,10 +130,8 @@
 <a href="https://github.com/WesleyBueno?tab=repositories"><img alt="EXPLORAR MEUS REPOSITÓRIOS" src="https://img.shields.io/badge/EXPLORAR-MEUS_REPOSIT%C3%93RIOS-FF008C?style=for-the-badge&amp;labelColor=111827&amp;logo=github&amp;logoColor=white" height="25" /></a>
 </p>
 
-<p><img src="./assets/titulos/04-tech-stack.gif" alt="04 — Tech Stack" width="100%" /></p>
-
 <p>
-  <img src="./assets/titulos/04-tech-stack.gif" alt="04 — TECH STACK" width="100%" />
+  <img src="./assets/titulos/04-skills.gif" alt="04 — TECH STACK" width="80%" />
 </p>
 
 <table width="100%">
@@ -186,7 +184,7 @@
 </table>
 
 
-<p><img src="./assets/titulos/05-exploracao.gif" alt="05 — Em Exploração" width="100%" /></p>
+<p><img src="./assets/titulos/05-exploracao.gif" alt="05 — Em Exploração" width="80%" /></p>
 
 <table width="100%"><tr>
 <td width="25%" valign="top"><strong>🧠 LLMs</strong><br /><sub>Prompting, avaliação e arquiteturas de agentes.</sub></td>
@@ -195,7 +193,7 @@
 <td width="25%" valign="top"><strong>💠 .NET &amp; Cloud</strong><br /><sub>Migração e modernização de APIs em ambientes cloud.</sub></td>
 </tr></table>
 
-<p><img src="./assets/titulos/06-contato.gif" alt="06 — Contato" width="100%" /></p>
+<p><img src="./assets/titulos/06-contato.gif" alt="06 — Contato" width="80%" /></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/wesley-bueno/"><img alt="LINKEDIN CONECTAR" src="https://img.shields.io/badge/LINKEDIN-CONECTAR-00C9EE?style=for-the-badge&amp;labelColor=111827&amp;logo=linkedin&amp;logoColor=white" height="25" /></a>
