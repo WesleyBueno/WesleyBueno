@@ -11,7 +11,7 @@
 <p><img src="./assets/titulos/01-sobre-mim.gif" alt="01 — Sobre Mim" width="100%" /></p>
 
 
-> **❯** Olá! Eu sou o **Wesley Bueno**. <p><img src="https://media.tenor.com/m7ZcyCQoZBsAAAAj/hey-choomba-jackie-welles.gif" alt="01 — Sobre Mim" width="100%" /></p>
+> **❯** Olá! Eu sou o **Wesley Bueno**. <img src="https://media.tenor.com/m7ZcyCQoZBsAAAAj/hey-choomba-jackie-welles.gif](https://media.tenor.com/m7ZcyCQoZBsAAAAi/hey-choomba-jackie-welles.gif)" alt="01 — Sobre Mim" width="10%" />
 >
 > **❯** Desenvolvedor com foco em **Back-end e Inteligência Artificial**, atuando na construção de APIs, microsserviços, integrações e soluções inteligentes.
 >
